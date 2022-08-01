@@ -2,9 +2,9 @@
 #include <string>
 using namespace std;
 
-// Main program to ask for and display age.
+// Main function to display entered age
 int main() {
-	
+
 	// Initialize age variable
 	int age = 38;
 	
